@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Viper-forest2.unity
+  isLoaded: 1
+  isActive: 1
